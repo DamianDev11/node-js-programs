@@ -1,0 +1,19 @@
+{
+  "name": "firstnodeapp",
+  "version": "1.0.0",
+  "description": "My first nodeJS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianDev11/node-js-programs.git"
+  },
+  "author": "Damian Prakash Murmu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianDev11/node-js-programs/issues"
+  },
+  "homepage": "https://github.com/DamianDev11/node-js-programs#readme"
+}
